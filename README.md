@@ -238,3 +238,6 @@ This repository serves as the official landing page for Aneesoft HD Video Conver
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Aneesoft HD Video Converter today!**
+
+---
+**Last updated:** 2026-09-07 17:23:22 UTC
